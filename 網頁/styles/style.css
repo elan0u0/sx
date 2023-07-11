@@ -1,0 +1,33 @@
+	
+h2 {
+    
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    font-size: 60px;
+    text-align: center;
+  }
+a{
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+    font-size: 100px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2{ color: violet;
+    width: 500px;}
+body {
+        background-image: url(../images/20221107145045_58378.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+html {
+        font-family: 'Noto Sans TC', sans-serif;
+    }
+img {
+        height: 200px;
+        display: block;
+        margin: 0 auto;
+    }
